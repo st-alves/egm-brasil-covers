@@ -1,2 +1,1 @@
-# egm-brasil-covers
-EGM Brasil magazine covers
+# EGM Brasil Magazine Covers
